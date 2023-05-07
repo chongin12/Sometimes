@@ -1,0 +1,49 @@
+## License
+
+### Images
+All images used in this app are downloaded from Pngwing and have DMCA.
+Pngwing : https://pngwing.com
+
+
+### Music
+I used music to give a sense of immersion.
+I downloaded and used music from the Chosic.
+Chosic : https://www.chosic.com/free-music/all/
+
+The music corresponding to Creative Commons music stated the author below.
+
+#### Spring Music
+Spring Flowers by Keys of Moon | https://soundcloud.com/keysofmoon
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+
+#### Summer Music
+Wistful Rain by Ghostrifter Official | https://soundcloud.com/ghostrifter-official
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY-SA 3.0
+https://creativecommons.org/licenses/by-sa/3.0/
+
+#### Autumn Music
+Autumn Scene by Keys of Moon | https://soundcloud.com/keysofmoon
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+
+#### Winter Music
+Magic Lights by Keys of Moon | https://soundcloud.com/keysofmoon
+Music promoted by https://www.chosic.com/free-music/all/
+Creative Commons CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
+
+
+### Statistics
+I used statistics from Datareportal
+Datareportal : https://datareportal.com/
+Specifically, I used "DIGITAL 2022: OCTOBER GLOBAL STATSHOT REPORT".
+According to this report, the worldwide daily time spent using the internet in 2022 is 6 hours 37 minutes.
+
+report link : https://datareportal.com/reports/digital-2022-october-global-statshot?rq=Global%20Stat
+
+### Emoji
+I used emojis that designed by Apple.
