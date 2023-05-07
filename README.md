@@ -1,6 +1,10 @@
 # Sometimes
 WWDC23 Swift Student Challenge [Submitted]
 
+**"Sometimes"** is an app that helps us realize that we are spending too much time looking at screens. Perhaps it would be nice to feel a sense of ease and freedom by looking at the wide world beyond the frustrating confines of a screen from time to time.
+
+## Preview
+
 "When was the last time you looked up at the sky?" This is the hook that appears on the first screen when the app starts, designed to grab people's attention.
 
 <img width="1016" alt="스크린샷 2023-05-07 오후 8 44 56" src="https://user-images.githubusercontent.com/19565940/236675769-28261c85-21c3-47ac-a63b-d963e49891bf.png">
