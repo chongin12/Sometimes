@@ -1,5 +1,5 @@
 # Sometimes
-WWDC23 Swift Student Challenge [Submitted]
+WWDC23 Swift Student Challenge [Rejected]
 
 **"Sometimes"** is an app that helps us realize that we are spending too much time looking at screens. Perhaps it would be nice to feel a sense of ease and freedom by looking at the wide world beyond the frustrating confines of a screen from time to time.
 
